@@ -1,2 +1,3 @@
-This Repo is about Course Work at:
-https://algs4.cs.princeton.edu/home/
+## Course Work Repository
+
+This repository contains coursework for [Princeton Algorithms, Part I](https://algs4.cs.princeton.edu/home/).
